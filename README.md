@@ -1,4 +1,4 @@
-# Bip39-Dice
+# Bip39 Offline Mnemonic Generator
 
 This is a pdf for offline generation of the first 23 words of a BIP 39 mnemonic.
 
