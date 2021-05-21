@@ -6,7 +6,7 @@ This is a pdf containing the instructions and the English BIP39 list for offline
 
 ## What now?
 
-To determine the final 24th word, use a hardware wallet or an OFFLINE version of [this page](https://iancoleman.io/bip39/)
+To determine the final 24th word, use a hardware wallet or an OFFLINE instance of [this tool](https://github.com/merland/seedpicker)
 
 ## License
 
