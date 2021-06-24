@@ -6,7 +6,9 @@ This is a pdf containing the instructions and the English BIP39 list for offline
 
 ## What now?
 
-To determine the final 24th word, use a hardware wallet or an OFFLINE instance of [this tool](https://seedpicker.net/calculator/last-word.html)
+To determine the final 24th word, use a hardware wallet or an OFFLINE machine running python
+`python3 24thword.py`
+(based on https://seedpicker.net/calculator/last-word.html)
 
 ## License
 
