@@ -14,7 +14,7 @@ You will be given a list of 8 valid 24th words. Pick one, write it with the othe
 
 ## Thanks!
 
-Code for 24th word was based on https://github.com/avsync/bip39chk
+Code for 24th word was based on [avsync/bip39chk](https://github.com/avsync/bip39chk)
 
 ## License
 
