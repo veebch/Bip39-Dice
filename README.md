@@ -8,7 +8,7 @@ This is a pdf + code containing the instructions and the English BIP39 list for 
 
 Print the pdf,  grab a pen, a pocket calculator (optional) and some dice and generate the first 23 words. 
 
-## What now?
+## Step 2: 24th word
 
 To determine the final 24th word, on an OFFLINE machine, edit `rolls.txt` and replace the words with the 23 that you chose using dice. Then run:
 
