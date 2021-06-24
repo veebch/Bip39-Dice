@@ -2,7 +2,7 @@
 
 ![outline](images/rolls.png)
 
-This is a pdf + code containing the instructions and the English BIP39 list for offline generation a full BIP39 24 word seed. The first 23 words are generated using paper and dice, and the 24th word is generated using the script `24thword.py`.
+This is a pdf + code containing the instructions and the BIP39 list (English and Japanese) for offline generation a full BIP39 24 word seed. The first 23 words are generated using paper and dice, and the 24th word is generated using the script `24thword.py`.
 
 ## Step 1: First 23 words
 
