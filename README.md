@@ -4,6 +4,10 @@
 
 This is a pdf + code containing the instructions and the English BIP39 list for offline generation a full BIP39 24 word seed. The first 23 words are generated using paper and dice, and the 24th word is generated using the script `24thword.py`.
 
+## Step 1: First 23 words
+
+Print the pdf,  grab a pen, a pocket calculator (optional) and some dice and generate the first 23 words. 
+
 ## What now?
 
 To determine the final 24th word, on an OFFLINE machine, edit `rolls.txt` and replace the words with the 23 that you chose using dice. Then run:
