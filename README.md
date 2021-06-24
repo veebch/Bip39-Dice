@@ -1,6 +1,6 @@
 # Bip39 Offline Mnemonic Generator
 
-![outline](https://github.com/llvllch/Bip39-Dice/blob/master/images/rolls.png)
+![outline](images/rolls.png)
 
 This is a pdf containing the instructions and the English BIP39 list for offline generation of the first 23 words of a 24 word BIP39 mnemonic for a Bitcoin Wallet.
 
