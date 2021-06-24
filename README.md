@@ -2,7 +2,7 @@
 
 ![outline](images/rolls.png)
 
-This is a pdf containing the instructions and the English BIP39 list for offline generation of the first 23 words of a 24 word BIP39 mnemonic for a Bitcoin Wallet.
+This is a pdf + code containing the instructions and the English BIP39 list for offline generation a full BIP39 24 word seed. The first 23 words are generated using paper and dice, and the 24th word is generated using the script `24thword.py`.
 
 ## What now?
 
