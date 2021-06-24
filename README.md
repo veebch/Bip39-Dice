@@ -10,7 +10,7 @@ To determine the final 24th word, on an OFFLINE machine, edit `rolls.txt` and re
 
 `python3 24thword.py`
 
-You will be given a list of 8 valid 24th words. Pick one (no need to tell the program which), write it with the other 23. This is a valid wallet seed, and you can use it with Electrum or some other 
+You will be given a list of 8 valid 24th words. Pick one (no need to tell the program which), write it with the other 23. This is a valid wallet seed, and you can use it with [Electrum](http://electrum.org) or some other wallet application.
 
 ## Thanks!
 
