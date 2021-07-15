@@ -18,6 +18,10 @@ You will be given a list of 8 valid 24th words. Pick one (eg by rolling 3 dice u
 
 You should also consider backing up these seed words on metal. 
 
+## Step 3: Receiving/ Sending
+
+To receive money to the wallet. You'll need an address (derived from your xpub). To send, you'll need your private key. The keys you'll need to do both of these things can be derived using an offline version of the page https://iancoleman.io/bip39/ 
+
 ## Thanks!
 
 Code for 24th word was based on [avsync/bip39chk](https://github.com/avsync/bip39chk)
