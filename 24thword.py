@@ -47,7 +47,7 @@ class Bip39Check(object):
 
         for i in range(0, 2 ** entropy_to_fill):
             entropy_candidate = entropy_base | i
-            entropy_str = binascii.unhexlify('0%x' % (entropy_candidate))
+            entropy_str = (entropy_candidate).to_bytes((entropy_candidate.bit_length() + 7) // 8, 'big')
             hash = (hashlib.sha256(entropy_str).digest()[0])
             checksum = hash >> (8 - checksum_bits)
             final_word_idx = (i << checksum_bits) + checksum
