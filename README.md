@@ -2,7 +2,9 @@
 
 ![outline](images/rolls.png)
 
-This is a pdf + code containing the instructions and the BIP39 list (English in pdf and English and Japanese in code) for offline generation a full BIP39 24 word seed. The first 23 words are generated using paper and dice, and the 24th word is generated using the script `24thword.py`.
+This is a pdf + code containing the instructions and the BIP39 list (English in pdf and English and Japanese in code) for offline generation a full BIP39 24 word seed (the words' lists are taken from https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md). The first 23 words are generated using paper and dice, and the 24th word is generated using the script `24thword.py`.
+
+
 
 ## Step 1: First 23 words
 
@@ -17,6 +19,8 @@ To determine the final 24th word, on an OFFLINE machine, edit `rolls.txt` and re
 You will be given a list of 8 valid 24th words. Pick one (eg by rolling 3 dice using and using the method above to get a number between 1 and 8), write your chosen word with the other 23. This is a valid wallet seed, and you can use it with [Electrum](http://electrum.org) or some other wallet application.
 
 You should also consider backing up these seed words on metal. 
+
+For more information you may check: https://learnmeabitcoin.com/technical/mnemonic
 
 ## Step 3: Receiving/ Sending
 
