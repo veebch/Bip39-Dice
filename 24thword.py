@@ -33,10 +33,14 @@ class Bip39Check(object):
             raise ValueError('Expecting 23 words')
 
     def _compute_entropy(self, phrase):
+        print("---------------------")
         self.entropy = 0
         for w in phrase:
             idx = self.worddict[w]
+            print('Word "' + w + '", index at words list ' + str(idx + 1))
             self.entropy = (self.entropy << 11) + idx
+
+        print('Entropy: ' + bin(self.entropy)[2:])
         return self.entropy
 
     def _scan(self):
@@ -45,8 +49,13 @@ class Bip39Check(object):
         entropy_base = self.entropy << (entropy_to_fill)
         couldbe=[]
 
+        print("---------------------")
+        print('Candidates: ')
         for i in range(0, 2 ** entropy_to_fill):
             entropy_candidate = entropy_base | i
+            print('Candidate ' + str(i+1))
+            binary = bin(entropy_candidate)[2:]
+            print(' > Binary:', binary)
             entropy_str = (entropy_candidate).to_bytes((entropy_candidate.bit_length() + 7) // 8, 'big')
             hash = (hashlib.sha256(entropy_str).digest()[0])
             checksum = hash >> (8 - checksum_bits)
@@ -73,6 +82,8 @@ def main():
     m._check_size(phrase)
     m._compute_entropy(phrase)
     candidates=m._scan()
+
+    print("---------------------")
     print ("Valid 24th words: ")
     print (candidates)
     print ("Pick one of these, write it down with the other 23")
