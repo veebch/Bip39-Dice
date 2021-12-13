@@ -41,13 +41,14 @@ class Bip39Check(object):
 
     def _scan(self):
         checksum_bits = self.size // 3
+        entropy_len = self.size * 11 - checksum_bits  #Entropy could be beetween 128 and 256 bits. Recover this size.
         entropy_to_fill = 11 - checksum_bits
         entropy_base = self.entropy << (entropy_to_fill)
         couldbe=[]
 
         for i in range(0, 2 ** entropy_to_fill):
             entropy_candidate = entropy_base | i
-            entropy_str = (entropy_candidate).to_bytes((entropy_candidate.bit_length() + 7) // 8, 'big')
+            entropy_str = (entropy_candidate).to_bytes(entropy_len, 'big')
             hash = (hashlib.sha256(entropy_str).digest()[0])
             checksum = hash >> (8 - checksum_bits)
             final_word_idx = (i << checksum_bits) + checksum
