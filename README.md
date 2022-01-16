@@ -19,7 +19,7 @@ To determine the final 24th word, on an OFFLINE machine, edit `rolls.txt` and re
 
 You will be given a list of 8 valid 24th words. Pick one (eg by rolling 3 dice using and using the method above to get a number between 1 and 8), write your chosen word with the other 23. This is a valid wallet seed, and you can use it with [Electrum](http://electrum.org) or some other wallet application.
 
-You should also consider backing up these seed words on metal. 
+If you don't have an airgapped machine, you could also use [seedsigner](https://github.com/SeedSigner/seedsigner).
 
 ## Step 3: Receiving/ Sending
 
