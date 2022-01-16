@@ -25,6 +25,13 @@ You should also consider backing up these seed words on metal.
 
 To receive money to the wallet. You'll need an address (derived from your xpub). To send, you'll need your private key. The keys you'll need to do both of these things can be derived using an offline version of the page https://iancoleman.io/bip39/ 
 
+## Storing your seed
+
+The code that you generated needs to be stored in a secure way, here's one (of many) possible methods:
+
+[![Electro Etching](http://img.youtube.com/vi/RVYHCVpeyEA/0.jpg)](http://www.youtube.com/watch?v=RVYHCVpeyEA "Video Title")
+
+
 ## Nothing is Original
 
 Code for 24th word was based on [avsync/bip39chk](https://github.com/avsync/bip39chk)
