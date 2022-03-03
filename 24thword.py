@@ -45,6 +45,7 @@ class Bip39Check(object):
 
     def _scan(self):
         checksum_bits = self.size // 3
+        entropy_len = (self.size * 11 - checksum_bits) // 8  #Entropy could be beetween 128 and 256 bits. Recover this size in bytes.
         entropy_to_fill = 11 - checksum_bits
         entropy_base = self.entropy << (entropy_to_fill)
         couldbe=[]
@@ -53,6 +54,7 @@ class Bip39Check(object):
         print('Candidates: ')
         for i in range(0, 2 ** entropy_to_fill):
             entropy_candidate = entropy_base | i
+
             print('Candidate ' + str(i+1))
             binary = bin(entropy_candidate)[2:]
             print(' > Binary:', binary)
