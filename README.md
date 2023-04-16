@@ -6,6 +6,8 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 
+# Manually Generate a Bitcoin Wallet with Dice
+
 This is a pdf + code containing the instructions and the BIP39 list (English in pdf and English and Japanese in code) for offline generation a full BIP39 24 word seed (the words' lists are taken from https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md). The first 23 words are generated using paper and dice, and the 24th word is generated using the script `24thword.py`.
 
 
