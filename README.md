@@ -52,7 +52,7 @@ The code that you generated needs to be stored in a secure way, here's  a video 
     
 ## Nothing is Original
 
-Code for 24th word was based on [avsync/bip39chk](https://github.com/avsync/bip39chk)
+The Python code for 24th word was based on [avsync/bip39chk](https://github.com/avsync/bip39chk)
 
 ## License
 
