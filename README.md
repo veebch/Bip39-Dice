@@ -33,7 +33,7 @@ To determine the final 24th word, on an [**OFFLINE**](https://en.wikipedia.org/w
 
 `python3 24thword.py`
 
-You will be given a list of 8 valid 24th words. Pick one (eg by rolling 3 dice using and using the method above to get a number between 1 and 8), write your chosen word with the other 23. This is a valid wallet seed, and you can use it with [Electrum](http://electrum.org) or some other wallet application.
+You will be given a list of 8 valid 24th words. Pick one of the 8 words (eg by rolling 3 dice using and using the method above to get a number between 1 and 8 (1+1+2+4)), write your chosen word with the other 23. This is a valid wallet seed, and you can use it with [Electrum](http://electrum.org) or some other wallet application.
 
 If you don't have an airgapped (permanently offline) machine, you could use [seedsigner](https://github.com/SeedSigner/seedsigner).
 
