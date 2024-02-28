@@ -16,8 +16,9 @@ This repository contains a pdf and a few lines of python code. The pdf contains 
 
 - Print the pdf,  
 - grab a pen, 
-- a pocket calculator (optional) and 
-- some dice and generate the first 23 words. 
+- a pocket calculator (optional),
+- some dice
+You're now ready to generate the first 23 words. Follow the instructions in the  [pdf](/).
 
 ## Step 2: The 24th word
 
