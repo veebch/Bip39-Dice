@@ -20,8 +20,8 @@ You now have a directory called `BIP39-Dice` that contains all the files you'll 
 
 ## Step 1: First 23 Words
 
-- Print the pdf,  
-- grab a pen, 
+Print [this pdf](/BIP39DiceManualCalculator.pdf) and grab
+- a pen, 
 - a pocket calculator (optional and depending on your mental arithmetic skills),
 - some dice
 
