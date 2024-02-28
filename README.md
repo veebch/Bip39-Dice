@@ -43,7 +43,7 @@ For more information you may check: https://learnmeabitcoin.com/technical/mnemon
 
 To receive money to the wallet. You'll need an address (derived from your xpub). To send, you'll need your private key. The keys you'll need to do both of these things can be derived using an offline version of the page https://iancoleman.io/bip39/ 
 
-## Step 4: Storing your seed - Video
+## Step 4: Storing Your Seed Phrase - Video
 
 The words that you generated need to be stored in a secure way, here's a video of one method:
 
