@@ -18,7 +18,7 @@ This repository contains a pdf and a few lines of python code. The pdf contains 
 - grab a pen, 
 - a pocket calculator (optional),
 - some dice
-You're now ready to generate the first 23 words. Follow the instructions in the  [pdf](/).
+You're now ready to generate the first 23 words. Follow the instructions in the  [pdf](/BIP39DiceManualCalculator.pdf).
 
 ## Step 2: The 24th word
 
