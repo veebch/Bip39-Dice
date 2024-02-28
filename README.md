@@ -47,7 +47,7 @@ To receive money to the wallet. You'll need an address (derived from your xpub).
 
 The code that you generated needs to be stored in a secure way, here's  a video of one (of many) possible methods:
 
-[![Electro Etching](http://img.youtube.com/vi/RVYHCVpeyEA/0.jpg)](http://www.youtube.com/watch?v=RVYHCVpeyEA "Electro Etching a Seed Phrase")
+[![Electro Etching](/images/videoetch.png)](http://www.youtube.com/watch?v=RVYHCVpeyEA "Electro Etching a Seed Phrase")
 
 
 ## Nothing is Original
