@@ -47,9 +47,16 @@ To receive money to the wallet. You'll need an address (derived from your xpub).
 
 The code that you generated needs to be stored in a secure way, here's  a video of one (of many) possible methods:
 
-[![Electro Etching](/images/videoetch.png)](http://www.youtube.com/watch?v=RVYHCVpeyEA "Electro Etching a Seed Phrase")
 
-
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=RVYHCVpeyEA">
+     <img 
+      src="/images/videoetch.png" 
+      alt="Electro Etching" 
+      style="width:100%;">
+      </a>
+    </div>
+    
 ## Nothing is Original
 
 Code for 24th word was based on [avsync/bip39chk](https://github.com/avsync/bip39chk)
