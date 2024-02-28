@@ -18,7 +18,7 @@ Print the pdf,  grab a pen, a pocket calculator (optional) and some dice and gen
 
 ## Step 2: The 24th word
 
-To determine the final 24th word, on an **OFFLINE** machine, edit `rolls.txt` and replace the words with the 23 that you chose using dice. Then run:
+To determine the final 24th word, on an [**OFFLINE**](https://en.wikipedia.org/wiki/Air_gap_(networking)) machine, edit `rolls.txt` and replace the words with the 23 that you chose using dice. Then run:
 
 `python3 24thword.py`
 
