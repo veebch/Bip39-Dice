@@ -1,12 +1,11 @@
-# Bip39 Offline Mnemonic Generator
+# Generate a Bitcoin Wallet using Dice
 
 ![outline](images/rolls.png)
 
 
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
-
-## Generate a Bitcoin Wallet using Dice
+## Overview
 
 These tools guide you through **offline** generation of a full 24 word seed for a secure Bitcoin Wallet. The first 23 words are generated using paper and the glorious randomness of dice. Because the 24th is a checksum word, it is calculated using the Python script [24thword.py](/24thword.py).
 
