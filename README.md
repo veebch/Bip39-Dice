@@ -47,7 +47,7 @@ To receive money to the wallet. You'll need an address (derived from your xpub).
 
 The code that you generated needs to be stored in a secure way, here's  a video of one (of many) possible methods:
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{RVYHCVpeyEA})](https://youtu.be/{RVYHCVpeyEA})
+[![Alt text](/images/videoetch.png)](https://www.youtube.com/watch?v=RVYHCVpeyEA)
 
     
 ## Nothing is Original
