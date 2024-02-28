@@ -23,7 +23,7 @@ You now have a directory called `BIP39-Dice` that contains all the files you'll 
 Print [this pdf](/BIP39DiceManualCalculator.pdf) and grab
 - a pen, 
 - a pocket calculator (optional and depending on your mental arithmetic skills),
-- some dice
+- some dice.
 
 You're now ready to generate the first 23 words. Follow the instructions in the  [pdf](/BIP39DiceManualCalculator.pdf).
 
