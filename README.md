@@ -45,7 +45,7 @@ To receive money to the wallet. You'll need an address (derived from your xpub).
 
 ## Step 4: Storing your seed - Video
 
-The code that you generated needs to be stored in a secure way, here's  a video of one (of many) possible methods:
+The code that you generated needs to be stored in a secure way, here's  a video of one method:
 
 [![Alt text](/images/videoetch.png)](https://www.youtube.com/watch?v=RVYHCVpeyEA)
 
