@@ -1,4 +1,4 @@
-# Generate a Bitcoin Wallet using Dice
+# Generate a Bitcoin Wallet Using Dice
 
 ![outline](images/rolls.png)
 
@@ -18,7 +18,7 @@ git clone https://github.com/veebch/Bip39-Dice.git
 ```
 You now have a directory called `BIP39-Dice` that contains all the files you'll need.
 
-## Step 1: First 23 words
+## Step 1: First 23 Words
 
 - Print the pdf,  
 - grab a pen, 
@@ -27,7 +27,7 @@ You now have a directory called `BIP39-Dice` that contains all the files you'll 
 
 You're now ready to generate the first 23 words. Follow the instructions in the  [pdf](/BIP39DiceManualCalculator.pdf).
 
-## Step 2: The 24th word
+## Step 2: The 24th Word
 
 To determine the final 24th word, on an [**OFFLINE**](https://en.wikipedia.org/wiki/Air_gap_(networking)) machine, edit `rolls.txt` and replace the words with the 23 that you chose using dice. Then run:
 
@@ -39,7 +39,7 @@ If you don't have an airgapped (permanently offline) machine, you could use [see
 
 For more information you may check: https://learnmeabitcoin.com/technical/mnemonic
 
-## Step 3: Receiving/ Sending
+## Step 3: Receiving/ Sending Funds
 
 To receive money to the wallet. You'll need an address (derived from your xpub). To send, you'll need your private key. The keys you'll need to do both of these things can be derived using an offline version of the page https://iancoleman.io/bip39/ 
 
