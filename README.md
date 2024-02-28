@@ -37,7 +37,7 @@ You will be given a list of 8 valid 24th words. Pick one of the 8 words (eg by r
 
 If you don't have an airgapped (permanently offline) machine, you could use [seedsigner](https://github.com/SeedSigner/seedsigner).
 
-For more information on how words become keys, see check: https://learnmeabitcoin.com/technical/mnemonic
+For more information on how words become seeds, see: https://learnmeabitcoin.com/technical/mnemonic
 
 ## Step 3: Receiving/ Sending Funds
 
