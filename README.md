@@ -54,6 +54,10 @@ The words that you generated need to be stored in a secure way, here's a video o
 
 The Python code for 24th word was based on [avsync/bip39chk](https://github.com/avsync/bip39chk)
 
+## Further Reading
+
+[Finding the Bottom Turtle](https://blog.dave.tf/post/finding-bottom-turtle/) by David Anderson
+
 ## License
 
 GPL 3.0
