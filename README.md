@@ -29,7 +29,7 @@ You're now ready to generate the first 23 words. Follow the instructions in the 
 
 ## Step 2: The 24th Word
 
-To determine the final 24th word, on an [**OFFLINE**](https://en.wikipedia.org/wiki/Air_gap_(networking)) machine, edit `rolls.txt` and replace the words with the 23 that you chose using dice. Then run:
+To determine the final 24th word, copy the files to an [**OFFLINE**](https://en.wikipedia.org/wiki/Air_gap_(networking)) machine, edit `rolls.txt` and replace the words with the 23 that you chose using dice. Then run:
 
 `python3 24thword.py`
 
