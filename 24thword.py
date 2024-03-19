@@ -50,7 +50,7 @@ class Bip39Check(object):
         checksum_bits = self.size // 3
         entropy_len = (
             (self.size * 11 - checksum_bits) // 8
-        )  # Entropy could be beetween 128 and 256 bits. Recover this size in bytes.
+        )  # Entropy could be between 128 and 256 bits. Recover this size in bytes.
         entropy_to_fill = 11 - checksum_bits
         entropy_base = self.entropy << (entropy_to_fill)
         couldbe = []
