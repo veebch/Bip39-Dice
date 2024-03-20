@@ -43,7 +43,7 @@ For more information on how words become seeds, see: https://learnmeabitcoin.com
 
 ## Step 3: Receiving/ Sending Funds
 
-To receive money to the wallet. You'll need an address (derived from your xpub). To send, you'll need your private key. The keys you'll need to do both of these things can be derived using an offline version of the page https://iancoleman.io/bip39/ 
+To receive money to the wallet. You'll need an address (derived from your xpub). To send, you'll need your private key. The keys you'll need to do both of these things can be derived using an **offline** version of the page https://iancoleman.io/bip39/ 
 
 ## Step 4: Storing Your Seed Phrase - Video
 
