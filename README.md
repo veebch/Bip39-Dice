@@ -29,9 +29,11 @@ You're now ready to generate the first 23 words. Follow the instructions in the 
 
 ## Step 2: The 24th Word
 
-To determine the final 24th word, copy the files to an [**OFFLINE**](https://en.wikipedia.org/wiki/Air_gap_(networking)) machine, and on that machine edit `rolls.txt` and replace the words already there with the 23 that you chose using dice. Then run:
+To determine the final 24th word, copy the files to an [**OFFLINE**](https://en.wikipedia.org/wiki/Air_gap_(networking)) machine, then run:
 
 `python3 24thword.py`
+
+Enter the 23 words, separated by spaces and hit 'Enter'.
 
 You will be given a list of 8 valid 24th words. Pick one of the 8 words (eg by rolling 3 dice using and using the method above to get a number between 1 and 8 (1+1+2+4)), write your chosen word with the other 23. This is a valid wallet seed, and you can use it with [Electrum](http://electrum.org) or some other wallet application.
 
