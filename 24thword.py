@@ -58,7 +58,7 @@ def main():
     phrase = sys.stdin.readline().split()
     m._check_size(phrase)
     m._compute_entropy(phrase)
-    print("___________________________\nThese are your candidate words, select one of these for the 24th word.\n")
+    print("___________________________\nThese are your 8 candidate words, select any one of these for the 24th word.\n")
     m._scan()
 
 if __name__ == '__main__':
