@@ -55,7 +55,7 @@ Once the words are backed up, you'll want to delete `rolls.txt`. You can do that
     
 ## Nothing is Original
 
-The Python code for 24th word was based on [avsync/bip39chk](https://github.com/avsync/bip39chk)
+The Python code for 24th word was taken from [avsync/bip39chk](https://github.com/avsync/bip39chk)
 
 ## Further Reading
 
