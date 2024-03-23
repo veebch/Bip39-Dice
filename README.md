@@ -51,7 +51,6 @@ The words that you generated need to be stored in a secure way, here's a video o
 
 [![Alt text](/images/videoetch.png)](https://www.youtube.com/watch?v=RVYHCVpeyEA)
 
-Once the words are backed up, you'll want to delete `rolls.txt`. You can do that with the linux command `shred -u rolls.txt` which will overwrite and delete the file on disk.
     
 ## Nothing is Original
 
