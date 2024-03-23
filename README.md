@@ -8,7 +8,7 @@
 
 These tools guide you through **offline** dice-throwing generation of a 24 word seed for a Bitcoin Wallet. The first 23 words are generated using paper and the glorious randomness of dice. Because the 24th is a checksum word, a list of 8 valid candidate words are calculated using the Python script [24thword.py](/24thword.py).
 
-The pdf contains both the instructions for making your seed phrase and the [BIP39](https://www.halborn.com/blog/post/what-is-a-bip39) list (English in pdf and English and Japanese the `wordlist` directory).
+The PDF file contains both the instructions for making your seed phrase and the [BIP39](https://www.halborn.com/blog/post/what-is-a-bip39) list (English in pdf and English and Japanese the `wordlist` directory).
 
 To get all the files you'll need, clone this repository with the command 
 
