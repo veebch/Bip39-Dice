@@ -24,7 +24,7 @@ Print [this pdf](/BIP39DiceManualCalculator.pdf) and grab
 - a pocket calculator (optional and depending on your mental arithmetic skills),
 - some fair dice ([Casino Dice](https://www.amazon.com/dice-casino-dice/b?ie=UTF8&node=13291921) are good).
 
-You're now ready to generate the first 23 words. Follow the instructions in the  [pdf](/BIP39DiceManualCalculator.pdf).
+You're now ready to generate the first 23 words. To do so, follow the instructions in the [pdf](/BIP39DiceManualCalculator.pdf).
 
 ## Step 2: The 24th Word
 
