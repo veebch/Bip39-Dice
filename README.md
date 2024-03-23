@@ -15,7 +15,7 @@ To get all the files you'll need, clone this repository with the command
 ```
 git clone https://github.com/veebch/Bip39-Dice.git
 ```
-You now have a directory called `BIP39-Dice` that contains all the files you'll need.
+You now have a directory called `BIP39-Dice` that contains all the required files.
 
 ## Step 1: First 23 Words
 
