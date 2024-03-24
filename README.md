@@ -50,7 +50,7 @@ The words that you generated need to be stored in a secure way, here's a video o
 
 [![Alt text](/images/videoetch.png)](https://www.youtube.com/watch?v=RVYHCVpeyEA)
 
-There's a review of other solutions on [Jameson Lopp's page](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
+There's a review of other metal seed storage solutions on [Jameson Lopp's page](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
     
 ## Nothing is Original
 
