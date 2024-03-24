@@ -17,7 +17,7 @@ git clone https://github.com/veebch/Bip39-Dice.git
 ```
 You now have a directory called `BIP39-Dice` that contains all the required files.
 
-## Step 1: First 23 Words |###################-| 96%
+## Step 1: First 23 Words
 
 Print [this pdf](/BIP39DiceManualCalculator.pdf) and grab
 - a pen, 
@@ -26,7 +26,7 @@ Print [this pdf](/BIP39DiceManualCalculator.pdf) and grab
 
 You're now ready to generate the first 23 words. To do so, follow the instructions in the [pdf](/BIP39DiceManualCalculator.pdf).
 
-## Step 2: The 24th Word
+## Step 2: The Final (24th) Word
 
 To determine the final 24th word, copy the files to an [**OFFLINE**](https://en.wikipedia.org/wiki/Air_gap_(networking)) machine, then run:
 
