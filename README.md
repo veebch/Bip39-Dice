@@ -17,7 +17,7 @@ git clone https://github.com/veebch/Bip39-Dice.git
 ```
 You now have a directory called `BIP39-Dice` that contains all the required files.
 
-## Step 1: First 23 Words
+## Step 1: First 23 Words |###################-| 96%
 
 Print [this pdf](/BIP39DiceManualCalculator.pdf) and grab
 - a pen, 
