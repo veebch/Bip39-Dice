@@ -57,7 +57,7 @@ The Python code for 24th word was taken from [avsync/bip39chk](https://github.co
 
 ## Further Reading
 
-[Finding the Bottom Turtle](https://blog.dave.tf/post/finding-bottom-turtle/) by David Anderson
+An excellent article on the difficulty of 'Don't Trust, Verify': [Finding the Bottom Turtle](https://blog.dave.tf/post/finding-bottom-turtle/) by David Anderson
 
 ## License
 
