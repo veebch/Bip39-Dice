@@ -3,8 +3,7 @@
 ![outline](images/rolls.png)
 
 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
-## Overview
+
 
 These tools guide you through **offline** dice-throwing generation of a 24 word seed for a Bitcoin Wallet. The first 23 words are generated using paper and the glorious randomness of dice. Because the 24th is a checksum word, it must be chosen from a list of 8 valid candidate words are calculated using the Python script [24thword.py](/24thword.py).
 
